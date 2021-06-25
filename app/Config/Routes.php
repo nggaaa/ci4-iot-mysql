@@ -40,7 +40,7 @@ $routes->delete('/users/(:num)', 'Home::deleteuser/$1');
 $routes->post('/api/add', 'Home::addapi');
 $routes->delete('/api/(:any)', 'Home::deleteapi/$1');
 // hardware routes
-$routes->get('/hardware', 'Data::save');
+$routes->post('/hardware', 'Data::save');
 // auth routes
 $routes->get('/auth', 'Auth::login');
 $routes->get('/auth/sign-up', 'Auth::register');
