@@ -33,4 +33,12 @@ Role is not admin
 - [jquery.pwstrength](http://matoilic.github.io/jquery.pwstrength/)
 - etc.
 
+#### [Demo Website](http://saronggos-iot.000webhostapp.com/)
+  - Admin
+    Email     : ``` demo.admin@saronggos.ko.id ```<br>
+    Password  : ``` onggos_admin ```
+  - User
+    Email     : ``` demo.user@saronggos.ko.id ```<br>
+    Password  : ``` onggos_user ```<br>
+    
 ### [Arduino IDE Code](https://github.com/saronggos/CI4-IOT-MySQL-Arduino-Code)
