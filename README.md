@@ -23,4 +23,4 @@ And have another url. You can explore it!
 - [jquery.pwstrength](http://matoilic.github.io/jquery.pwstrength/)
 - etc.
 
-### [For Arduino IDE Code coming soon with different repository](https://github.com/saronggos/CI4-IOT-MySQL-Arduino-Code)
+### [Arduino IDE Code](https://github.com/saronggos/CI4-IOT-MySQL-Arduino-Code)
